@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156152862913",
+    "firebase_url": "https://volquery-19f64.firebaseio.com",
+    "project_id": "volquery-19f64",
+    "storage_bucket": "volquery-19f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156152862913:android:2cacb341a64c2eec",
+        "android_client_info": {
+          "package_name": "com.example.josh.volquery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156152862913-1orol9lnis7hlvbg5jcq5rjdkkk7hfig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.josh.volquery",
+            "certificate_hash": "5954b27a9f839e46af77b35c541f957dc0e05799"
+          }
+        },
+        {
+          "client_id": "156152862913-mlpo67n1jk73o5r9kv576ciccaar9bfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUPcuv1isc1cuGSXwiq5AmeUecLIJvvgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156152862913-mlpo67n1jk73o5r9kv576ciccaar9bfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
