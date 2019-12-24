@@ -25,8 +25,5 @@ Moral of the story is to learn git
 
 ## Screenshots
 Luckily I still have the last functioning version of this application running on my phone!
-![](./screenshots/Volquery_Main1.jpg =108x192)
-![](./screenshots/Volquery_Menu2.jpg =108x192)
-![](./screenshots/Volqurey_Filters.jpg =108x192)
-![](./screenshots/Volquery_Regions.jpg =108x192)
-![](./screenshots/Volquery_Credits.jpg =108x192)
+
+<img src="./screenshots/Volquery_Main1.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Menu2.jpg" width="216" height="384">    <img src="./screenshots/Volqurey_Filters.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Regions.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Credits.jpg" width="216" height="384">
