@@ -25,8 +25,8 @@ Moral of the story is to learn git
 
 ## Screenshots
 Luckily I still have the last functioning version of this application running on my phone!
-![](./screenshots/Volquery_Menu1.jpg)
-![](./screenshots/Volquery_Menu2.jpg)
-![](./screenshots/Volquery_Filters.jpg)
-![](./screenshots/Volquery_Regions.jpg)
-![](./screenshots/Volquery_Credits.jpg)
+![](./screenshots/Volquery_Main1.jpg =108x192)
+![](./screenshots/Volquery_Menu2.jpg =108x192)
+![](./screenshots/Volqurey_Filters.jpg =108x192)
+![](./screenshots/Volquery_Regions.jpg =108x192)
+![](./screenshots/Volquery_Credits.jpg =108x192)
