@@ -21,9 +21,9 @@ Over the 48 hours, I learned how to implement many features from Android Studio.
 ## Breif Story
 We split front-end and backend between Austin and Josh. Everything was going slowly, but to plan. When Josh got the database done he branched the front-end so he could make it communicate with the backend. Once that was working we were in the final half-hour, I pushed the last filter menu I made, he merged his branch, and our files corrupted. It even managed to corrupt my android studio which I reinstalled later.  :(
 
-Moral of the story is to learn git
+The moral of the story is to learn git.
 
 ## Screenshots
-Luckily I still have the last functioning version of this application running on my phone!
+Luckily I still have the last functioning version of VolQuery running on my phone!
 
 <img src="./screenshots/Volquery_Main1.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Menu2.jpg" width="216" height="384">    <img src="./screenshots/Volqurey_Filters.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Regions.jpg" width="216" height="384">    <img src="./screenshots/Volquery_Credits.jpg" width="216" height="384">
