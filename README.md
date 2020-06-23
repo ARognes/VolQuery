@@ -18,7 +18,7 @@ I had never used Android Studio or Git before this.
 
 Over the 48 hours, I learned how to implement many features from Android Studio. I first loaded in background images in that change each time the application is opened. Next, I created a credit menu panel that showed up on a button press, and some text with links to credits. I added a search box and a toggle button next to it to enable filters. I created 6 filter buttons that each would pop up with a list of the associated filter such as Country. The last thing I did was make the lists save you selection of filters and have clear and cancel functionality.
 
-## Breif Story
+## Brief Story
 We split front-end and backend between Austin and Josh. Everything was going slowly, but to plan. When Josh got the database done he branched the front-end so he could make it communicate with the backend. Once that was working we were in the final half-hour, I pushed the last filter menu I made, he merged his branch, and our files corrupted. It even managed to corrupt my android studio which I reinstalled later.  :(
 
 The moral of the story is to learn git.
